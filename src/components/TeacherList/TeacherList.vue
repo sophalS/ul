@@ -65,7 +65,8 @@
                     <h1 class="">{{teacher.id}} </h1>
                 </td>
                 <td  class="py-3 px-6 ">
-                    <h1 class="">{{teacher.user.first_name}} {{teacher.user.last_name}}</h1>
+                    <h1 class="">Sophal</h1>
+                    <!-- {{teacher.user.first_name}} {{teacher.user.last_name}} -->
                 </td>
                 <td class="py-3 px-6 ">
                   {{teacher.position}}
