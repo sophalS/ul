@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
-import './assets/tailwind.css'
+import './tailwind.css'
 import { createPinia } from 'pinia'
 import WidgetTitle from "@/components/Widgets/WidgetTitle"
 import WidgetButton from "@/components/Widgets/WidgetButton"
